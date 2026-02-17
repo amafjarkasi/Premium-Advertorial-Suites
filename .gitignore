@@ -1,0 +1,7 @@
+.qoder/
+.agent/
+.vscode/
+*.tmp
+*_backup.*
+node_modules/
+.DS_Store
